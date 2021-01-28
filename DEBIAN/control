@@ -1,0 +1,7 @@
+Package: fcitx-ui-deepin-v20
+Version: 1.0
+Section: utils
+Architecture: all
+Installed-Size: 1600
+Maintainer: liu
+Description: 适用fcitx小企鹅输入法的深度皮肤 / Deepin skin ensemble for fcitx input method
